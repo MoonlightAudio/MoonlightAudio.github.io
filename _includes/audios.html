@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link href="../assets/css/fonts.css" rel="stylesheet"/>
+        <link href="../assets/css/site.css" rel="stylesheet"/>
+        <link href="../assets/css/audioindex.css" rel="stylesheet"/>
+    </head>
+    <div class="container">
+        <!-- heading -->
+        <div class="header">
+            <h1>Audio Index</h1>
+        </div>
+        <!-- rhs column -->
+        <div class="sorting">
+            <!-- sorting -->
+            <button onclick="dropdownPanels(this, 'sorting')" class="dropdown">
+                <h3>Search</h3>
+            </button>
+            <div id="filter-index">
+                <div id="search-panel">
+                    <h3>Search</h3>
+                    <div class="search-container">
+                        <input id="search-box" type="text" placeholder="Title or description">
+                    </div>
+                </div>
+
+                <div id="sorting-panel">
+                    <div id="tag-sorting" class="tag-content">
+                        <h3>Filter by Tags</h3>
+                        <div class="tags-container">
+                            <!-- audience -->
+                            <button class="tag" onclick="addFilter(this, 'M4F')">M4F</button>
+                            <button class="tag" onclick="addFilter(this, 'M4A')">M4A</button>
+                            <!-- relation -->
+                            <button class="tag" onclick="addFilter(this, 'BFE')">BFE</button>
+                            <button class="tag" onclick="addFilter(this, 'Friends-to-Lovers')">Friends to Lovers</button>
+                            <!-- theme -->
+                            <button class="tag" onclick="addFilter(this, 'Fantasy')">Fantasy</button>
+                            <button class="tag" onclick = "addFilter(this, 'Comfort')">Comfort</button>
+                            <button class="tag" onclick = "addFilter(this, 'Reverse-Comfort')">Reverse Comfort</button>
+                            <button class="tag" onclick = "addFilter(this, 'Sleep-Aid')">Sleep Aid</button>
+                            <button class="tag" onclick = "addFilter(this, 'Affirmations')">Affirmations</button>
+                            <!-- source -->
+                            <button class="tag" onclick="addFilter(this, 'Script-Fill')">Script Fill</button>
+                            <button class="tag" onclick="addFilter(this, 'Improv')">Improv</button>
+                            <!-- misc -->
+                            <button class="tag" onclick="addFilter(this, 'Rambles')">Rambles</button>
+                            <button class="tag" onclick="addFilter(this, 'Popular')">Popular</button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- ordering -->
+                <div id="ordering-panel">
+                    <div id="ordering">
+                        <h3>Sort by</h3>
+                        <div class="select-wrapper">
+                            <div class="drop-select">
+                                <div class="select-trigger"><span>Newest first</span>
+                                    <div class="arrow"></div>
+                                </div>
+                                <div class="option-list">
+                                    <span class="option selected" data-value="chrono">Newest first</span>
+                                    <span class="option" data-value="r-chrono">Oldest first</span>
+                                    <span class="option" data-value="ls">Longest to shortest</span>
+                                    <span class="option" data-value="sl">Shortest to longest</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- submit/reset buttons -->
+                <div class="control-container">
+                    <button class="control" onclick="filterAll()">Filter</button>
+                    <button class="control" onclick="showAll()">Show All</button>
+                </div>
+            </div>
+            <!-- kinda fixed scroll to top button -->
+            <div id="scroll-to-top">
+                <button id="scroll-btn" onclick="scrollToTop()">&#9650;</button>
+            </div>
+            <!-- fixed subscribe button -->
+            <div id="subscribe">
+                <div id="sub-embed">
+                    <script src="https://apis.google.com/js/platform.js"></script>
+                    <div class="g-ytsubscribe" data-channelid="UCReuHK4sTlAPUszmk5gqjyg" data-layout="full" data-theme="dark" data-count="default">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- lhs column -->
+        <div id="audios">
+            <div id="none-found">
+                <h3>No audios found</h3>
+            </div>
+        </div>
+    </div>
+    <script src="../assets/js/indexloading.js"></script>
+    <script src="../assets/js/indexfiltering.js"></script>
+    <script src="../assets/js/indexordering.js"></script>
+    <script src="../assets/js/indexfunctions.js"></script>
+    <script src="../assets/js/indexsearching.js"></script>
+</html>

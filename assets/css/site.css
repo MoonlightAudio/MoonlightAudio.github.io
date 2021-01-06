@@ -1,0 +1,282 @@
+/* universal site formatting */
+body {
+    margin: 0;
+    min-height: 100vh;
+    /* background: linear-gradient(#050607, #11161A); */
+    background-image: url("../images/background.png");
+    background-color: #101519;
+    background-attachment: fixed;
+}
+
+.header h1 {
+    font-family: "Disruptors Script", "Lato", sans-serif;
+    color: #F3FBFD;
+    font-weight: lighter;
+    font-size: 96px;
+    margin: 16px 0;
+}
+
+.container {
+    padding-top: 64px;
+    width: 70%;
+    display: block;
+    margin: auto;
+}
+
+.content {
+    background-color: #0F1012;
+    font-family: "Lato", sans-serif;
+    color: #F3FBFD;
+    padding: 5%;
+    margin-bottom: 64px;
+    min-height: 128px;
+    overflow: hidden;
+}
+
+.content h2 {
+    margin-top: 0;
+    font-size: 24px;
+}
+
+.content ul {
+    list-style-type: none;
+    margin-bottom: 32px;
+}
+
+.content li {
+    font-size: 20px;
+    line-height: 2;
+    color: #DCF0F3;
+}
+
+.content a {
+    color: #5FE0EE;
+}
+
+.content i {
+    margin-right: 8px;
+}
+
+ul.end {
+    margin-bottom: 16px;
+}
+
+.content h3 {
+    font-size: 24px;
+    font-style: italic;
+    margin: 0;
+}
+
+.content p {
+    font-size: 16px;
+    color: #DCF0F3;
+    padding-left: 4%;
+    margin-top: 8px;
+    font-weight: lighter;
+    text-align: justify;
+    text-justify: inter-word;
+    line-height: 1.5;
+}
+
+.qa {
+    margin-bottom: 32px;
+}
+
+.qa.bottom {
+    margin-bottom: 0px;
+}
+
+/* universal site mobile formatting */
+@media (max-width: 767px) {
+    .content {
+        padding: 8%;
+    }
+
+    .content h2 {
+        font-size: 16px;
+    }
+
+    .content li {
+        font-size: 12px;
+    }
+
+    .content h3 {
+        font-size: 16px;
+    }
+
+    .content p {
+        padding-left: 8%;
+        font-size: 12px;
+    }
+
+    .header h1 {
+        font-size: 72px;
+    }
+
+    .content ul {
+        padding-left: 4%;
+    }
+
+    .container {
+        width: 80%;
+        padding-top: 0;
+    }
+}
+
+/* 404 page formatting */
+#page-not-found {
+    width: 90%;
+    display: block;
+    margin: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: "Lato", sans-serif;
+    text-align: center;
+}
+
+#page-not-found img {
+    width: 20%;
+    display: block;
+    margin: auto;
+}
+
+#page-not-found h1 {
+    color: #F3FBFD;
+    font-size: 36px;
+    margin: 12px 0;
+}
+
+#page-not-found h3, a{
+    color: #DCF0F3;
+    font-weight: lighter;
+}
+
+#page-not-found a:hover {
+    color: #5FE0EE;
+    transition-duration: 0.3s;
+}
+
+/* 404 mobile formatting */
+@media (max-width: 767px) {
+    #page-not-found img {
+        width: 50%;
+        margin-bottom: 16px;
+    }
+
+    #page-not-found h1 {
+        font-size: 24px;
+    }
+
+    #page-not-found h3, a {
+        font-size: 12px;
+    }
+}
+
+/* socials page formatting */
+.social-links {
+    width: 49%;
+    float: left;
+    left: 0;
+}
+
+.social-image {
+    width: 49%;
+    float: right;
+    right: 0;
+}
+
+.social-image img {
+    width: 50%;
+    display: block;
+    margin: auto;
+}
+
+/* socials mobile formatting */
+@media (max-width: 767px) {
+    .social-links {
+        width: 100%;
+    }
+
+    .social-image {
+        margin-top: 28px;
+        width: 100%;
+    }
+}
+/* landing page formatting */
+
+.home {
+    width: 90%;
+    display: block;
+    margin: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.avatar img {
+    width: 18vw;
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+}
+
+.logo {
+    width: 100%;
+    display: block;
+    margin: auto;
+}
+
+.logo p {
+    font-family: "Disruptors Script", "Lato", sans-serif;
+    text-align: center;
+    color: #F3FBFD;
+    font-size: 112px;
+    margin: 16px 0;
+}
+
+.external-list {
+    width: 30%;
+    display: block;
+    margin: auto;
+}
+
+.icons ul {
+    display: block;
+    margin: auto;
+    text-align: center;
+    padding-left: 0;
+    padding-top: 16px;
+}
+
+.icons i{
+    font-size: 30px;
+    color: #DCF0F3;
+    text-decoration: none;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+.icons i:hover {
+    color: #5FE0EE;
+    transition-duration: 0.3s;
+}
+
+/* landing page mobile formatting */
+@media (max-width: 767px) {
+    .avatar img {
+        width: 50%;
+    }
+
+    .logo p {
+        font-size: 18vw;
+        margin: -8px 0 8px 0;
+    }
+
+    .icons i {
+        padding-left: 1.5%;
+        padding-right: 1.5%;
+    }
+}
