@@ -5,6 +5,13 @@ window.onscroll = function() {
     scrollToggle()
 };
 
+// filter on enter
+window.onkeypress = function(event) {
+    if (event.keyCode == 13) {
+        filterAll();
+    }
+}
+
 // make the button appear after scrolling down a bit
 function scrollToggle() {
     if (document.body.scrollTop > 500 || document.documentElement.scrollTop > 500) {
