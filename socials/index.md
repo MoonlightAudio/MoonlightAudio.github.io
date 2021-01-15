@@ -1,4 +1,0 @@
----
-layout: socials
-title: 'Socials'
----
