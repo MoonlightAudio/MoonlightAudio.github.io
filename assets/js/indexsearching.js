@@ -1,5 +1,6 @@
 function search() {
     var input = document.getElementById('search-box').value;
+    input = input.trim();
     input = input.toLowerCase();
     var result = [];
     for (var i = 0; i < list.length; i++) {

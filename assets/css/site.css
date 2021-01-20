@@ -6,6 +6,7 @@ body {
     background-image: url("../images/background.png");
     background-color: #101519;
     background-attachment: fixed;
+    background-size: cover;
 }
 
 .header h1 {

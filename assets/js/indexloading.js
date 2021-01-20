@@ -25,6 +25,9 @@ function appendData(data) {
         // create the embed video div
         var embedvid = document.createElement("div");
         embedvid.classList += "embedvid";
+        // var embedstring = "<img src='https://img.youtube.com/vi/";
+        // embedstring += data[i].link;
+        // embedstring += "/hqdefault.jpg'/>";
         var embedstring = "<iframe src='"
         embedstring += data[i].link;
         embedstring += "' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>";

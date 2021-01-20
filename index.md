@@ -1,4 +1,4 @@
 ---
-layout: temp
+layout: home
 title: 'Home'
 ---
