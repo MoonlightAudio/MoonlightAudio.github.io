@@ -1,9 +1,19 @@
 [
     {
+        "title": "We Can Make New Plans",
+        "desc": ["Don't worry about having to work late tonight. I've canceled our plans with those other couples and have something special just for the two of us."],
+        "link": "https://www.youtube.com/embed/YL1yxE50OLg",
+        "tags": "M4A BFE Improv",
+        "length": 248,
+        "uploaded": "2021-03-20",
+        "id": "099"
+	},
+
+    {
         "title": "In Your Arms",
-        "desc": [""],
+        "desc": ["It was a long day, baby. Let me relax in your arms and drift off."],
         "link": "https://www.youtube.com/embed/H-dJ8OrtuNg",
-        "tags": "M4F BFE Reverse-Comfort Improv",
+        "tags": "M4A BFE Reverse-Comfort Improv",
         "length": 1445,
         "uploaded": "2021-03-13",
         "id": "098"
@@ -23,7 +33,7 @@
         "title": "It Was Just a Nightmare",
         "desc": ["I'm awake! It's OK...I'm OK...I'm not OK...", "Baby, I had a nightmare. I know it's not going to hurt me, but it seemed so real!"],
         "link": "https://www.youtube.com/embed/fKDVfPdPBQ0",
-        "tags": "M4F BFE Reverse-Comfort Improv",
+        "tags": "M4A BFE Reverse-Comfort Improv",
         "length": 860,
         "uploaded": "2021-02-27",
         "id": "096"
@@ -33,7 +43,7 @@
         "title": "I'm Sorry",
         "desc": ["Can we talk?", "It's just...we had a little disagreement that we let grow into a fight. I want to apologize for my part in that."],
         "link": "https://www.youtube.com/embed/AgMf36X_YvY",
-        "tags": "M4F BFE Comfort Improv",
+        "tags": "M4A BFE Comfort Improv",
         "length": 693,
         "uploaded": "2021-02-20",
         "id": "095"
