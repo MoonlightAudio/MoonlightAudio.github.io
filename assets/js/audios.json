@@ -1,5 +1,55 @@
 [
     {
+        "title": "It's Just a Movie",
+        "desc": ["Hey, what's wrong? I came here as soon as I could! I know that movie was scary, but you can rest easy in my arms.", "Umm... If I didn't know any better, I'd think you were moving in to kiss me. I'm not saying no, I'm just surprised you like me, too."],
+        "link": "https://www.youtube.com/embed/Y47b_0VBrog",
+        "tags": "M4A Friends-to-Lovers Improv",
+        "length": 722,
+        "uploaded": "2021-07-24",
+        "id": "118"
+    },
+    
+    {
+        "title": "Stop Distracting Me!",
+        "desc": ["I'm sorry it's taking so long for this call to be over, but...", "OK, that's cheating. Neck kisses are playing dirty. And turnabout is fair play."],
+        "link": "https://www.youtube.com/embed/ytA0pW-NTlw",
+        "tags": "M4A BFE Improv Patreon-Exclusive",
+        "length": 105,
+        "uploaded": "2021-07-21",
+        "id": "117"
+    },
+
+    {
+        "title": "Lie Here With Me (1 hour with sleep sounds)",
+        "desc": ["Shhhh... My darling, it's time for rest. Unburden your mind, snuggle with your man, and let's drift off together."],
+        "link": "https://www.youtube.com/embed/7rvvAbYLu9I",
+        "tags": "M4A BFE Comfort Improv",
+        "length": 3643,
+        "uploaded": "2021-07-17",
+        "id": "116"
+    },
+    
+    {
+        "title": "Lie Here With Me (1 hour with affirmations)",
+        "desc": ["Shhhh... My darling, it's time for rest. Unburden your mind, snuggle with your man, and let's drift off together."],
+        "link": "https://www.youtube.com/embed/mHJ1RSE0WmE",
+        "tags": "M4A BFE Comfort Sleep-Aid Affirmations Improv",
+        "length": 3794,
+        "uploaded": "2021-07-17",
+        "id": "115"
+    },
+
+    {
+        "title": "Lie Here With Me",
+        "desc": ["Shhhh... My darling, it's time for rest. Unburden your mind, snuggle with your man, and let's drift off together."],
+        "link": "https://www.youtube.com/embed/JBVXEX1EoXY",
+        "tags": "M4A BFE Comfort Sleep-Aid Improv",
+        "length": 1266,
+        "uploaded": "2021-07-17",
+        "id": "114"
+    },
+    
+    {
         "title": "In-tents Feelings for You",
         "desc": ["Looks like we're all done for the day. Why don't you come sit with me by the campfire?", "There's something I've been meaning to tell you for a while."],
         "link": "https://www.youtube.com/embed/_-uBmmlRxwQ",
@@ -23,7 +73,7 @@
         "title": "The First Date - The Courtship Series, Part 2",
         "desc": ["It's great to see you again! I know we'd planned for this bistro, but why don't we do something a bit different?", "I want this date to be something we both remember for a long time. "],
         "link": "https://www.youtube.com/embed/O7dVQnmyiaY",
-        "tags": "M4A Friends-to-Lovers Patreon-Exclusive Improv",
+        "tags": "M4A Friends-to-Lovers Improv Patreon-Exclusive",
         "length": 100,
         "uploaded": "2021-06-30",
         "id": "111"
@@ -33,7 +83,7 @@
         "title": "So We Meet Again...",
         "desc": ["It's been a long time, I never thought I'd see you again. Let's see if the spark between us at the academy is still there."],
         "link": "https://www.youtube.com/embed/aVgyHMLgE0U",
-        "tags": "M4A Friends-to-Lovers Patreon-Exclusive Improv",
+        "tags": "M4A Friends-to-Lovers Improv Patreon-Exclusive",
         "length": 139,
         "uploaded": "2021-06-29",
         "id": "110"
@@ -113,7 +163,7 @@
         "title": "Meeting You - The Courtship Series, Part 1",
         "desc": ["My friend put me up to this. I know it's weird having a stranger hit you up like this, but can I get your number? You can give me a fake one if you want.", "Oh, you were, were you? In that case I take it back. Why don't you give me your real number? And since we both know where this is headed... Are you free this Friday?"],
         "link": "https://www.youtube.com/embed/1ZFEBwKJYLw",
-        "tags": "M4A Friends-to-Lovers Patreon-Exclusive Improv",
+        "tags": "M4A Friends-to-Lovers Improv Patreon-Exclusive",
         "length": 106,
         "uploaded": "2021-05-20",
         "id": "102"
