@@ -1,10 +1,51 @@
 [
     {
+        "title": "Rekindling Our Flame",
+        "desc": ["Long time, no see! It's really great to have you back in town!", "I thought maybe we could visit some of the places where we built our friendship. Even though you've been gone a while, you were always in my thoughts."],
+        "link": "https://www.youtube.com/embed/GSXlEkZdunM",
+        "tags": "M4A Friends-to-Lovers Improv",
+        "length": 1097,
+        "uploaded": "2022-01-01",
+        "id": "154"
+    },
+
+    {
+        "title": "A gift from Santa",
+        "desc": ["Who am I? I think you already know the answer to that.", "You wished for a man who'd love you like no one ever has before. Here I am."],
+        "link": "https://www.youtube.com/embed/nlll1dBAn5k",
+        "tags": "M4A BFE Improv Patreon-Exclusive",
+        "length": 161,
+        "uploaded": "2021-12-30",
+        "id": "153"
+    },
+    
+    {
+        "title": "The Proposal - The Courtship Series, Part 8",
+        "desc": ["Recognize this place? It's where we had our first date. So many good memories, so many beautiful things you've brought into my life -- and this is where they really started.", "But I've been thinking about this. Having you as my girlfriend is not enough. I want you to be my wife."],
+        "link": "https://www.youtube.com/embed/D7Xt6ueou9U",
+        "tags": "M4A Friends-to-Lovers Improv Patreon-Exclusive",
+        "length": 177,
+        "uploaded": "2021-12-29",
+        "id": "152"
+    },
+    
+    
+    {
+        "title": "Furloughed for the Holidays",
+        "desc": ["My deployment ended ahead of schedule this year. Surprise!", "I didn't have a lot of time to prepare anything fancy, but I still wanted to make it special. "],
+        "link": "https://www.youtube.com/embed/t3JZmGsupUE",
+        "tags": "M4A BFE Improv",
+        "length": 937,
+        "uploaded": "2021-12-25",
+        "id": "151"
+    },
+    
+    {
         "title": "A Christmas Miracle",
         "desc": ["Hey, buddy! Your mom and I have something we'd like to do with you: a gingerbread house!", "All we need to do is put it together, decorate it... Baby, what's this? Are you trying to tell me you're...?"],
         "link": "https://www.youtube.com/embed/1NEPNTEjyXY",
         "tags": "M4A BFE Improv",
-        "length": 167,
+        "length": 744,
         "uploaded": "2021-12-18",
         "id": "150"
     },
@@ -14,7 +55,7 @@
         "desc": ["Thank you for coming to the fair with me! I'm so excited about Christmas this year. I have family coming over and...", "I'm sorry, I didn't mean to strike a nerve. It sucks things with your family aren't so great, but...why don't you spend Christmas with me? "],
         "link": "https://www.youtube.com/embed/AWzH7xML-tg",
         "tags": "M4A Friends-to-Lovers Improv",
-        "length": 197,
+        "length": 966,
         "uploaded": "2021-12-11",
         "id": "149"
     },
