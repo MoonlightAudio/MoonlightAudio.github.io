@@ -1,8 +1,29 @@
 [
     {
+        "title": "Boa Noite, My Love",
+        "desc": ["It's been a long day. My love, let's go to bed.", "Why don't you snuggle here with me and let me say sweet nothings to you in Portuguese?"],
+        "link": "GNM1m95mfl4",
+        "tags": "M4A BFE Improv",
+        "length": 846,
+        "uploaded": "2022-01-15",
+        "id": "156"
+    },
+
+    
+    {
+        "title": "Buenos Días, My Love",
+        "desc": ["Mi amor, you have no idea how happy I am we have this time during the holidays where we can just chill and be together.", "Why don't you snuggle here with me and let me say sweet nothings to you in Spanish?"],
+        "link": "4rwrWJju30M",
+        "tags": "M4A BFE Improv",
+        "length": 805,
+        "uploaded": "2022-01-09",
+        "id": "155"
+    },
+    
+    {
         "title": "Rekindling Our Flame",
         "desc": ["Long time, no see! It's really great to have you back in town!", "I thought maybe we could visit some of the places where we built our friendship. Even though you've been gone a while, you were always in my thoughts."],
-        "link": "https://www.youtube.com/embed/GSXlEkZdunM",
+        "link": "GSXlEkZdunM",
         "tags": "M4A Friends-to-Lovers Improv",
         "length": 1097,
         "uploaded": "2022-01-01",
@@ -10,9 +31,9 @@
     },
 
     {
-        "title": "A gift from Santa",
+        "title": "A Gift from Santa",
         "desc": ["Who am I? I think you already know the answer to that.", "You wished for a man who'd love you like no one ever has before. Here I am."],
-        "link": "https://www.youtube.com/embed/nlll1dBAn5k",
+        "link": "nlll1dBAn5k",
         "tags": "M4A BFE Improv Patreon-Exclusive",
         "length": 161,
         "uploaded": "2021-12-30",
@@ -22,7 +43,7 @@
     {
         "title": "The Proposal - The Courtship Series, Part 8",
         "desc": ["Recognize this place? It's where we had our first date. So many good memories, so many beautiful things you've brought into my life -- and this is where they really started.", "But I've been thinking about this. Having you as my girlfriend is not enough. I want you to be my wife."],
-        "link": "https://www.youtube.com/embed/D7Xt6ueou9U",
+        "link": "D7Xt6ueou9U",
         "tags": "M4A Friends-to-Lovers Improv Patreon-Exclusive",
         "length": 177,
         "uploaded": "2021-12-29",
@@ -33,7 +54,7 @@
     {
         "title": "Furloughed for the Holidays",
         "desc": ["My deployment ended ahead of schedule this year. Surprise!", "I didn't have a lot of time to prepare anything fancy, but I still wanted to make it special. "],
-        "link": "https://www.youtube.com/embed/t3JZmGsupUE",
+        "link": "t3JZmGsupUE",
         "tags": "M4A BFE Improv",
         "length": 937,
         "uploaded": "2021-12-25",
@@ -43,7 +64,7 @@
     {
         "title": "A Christmas Miracle",
         "desc": ["Hey, buddy! Your mom and I have something we'd like to do with you: a gingerbread house!", "All we need to do is put it together, decorate it... Baby, what's this? Are you trying to tell me you're...?"],
-        "link": "https://www.youtube.com/embed/1NEPNTEjyXY",
+        "link": "1NEPNTEjyXY",
         "tags": "M4A BFE Improv",
         "length": 744,
         "uploaded": "2021-12-18",
@@ -53,7 +74,7 @@
     {
         "title": "You're Not Alone",
         "desc": ["Thank you for coming to the fair with me! I'm so excited about Christmas this year. I have family coming over and...", "I'm sorry, I didn't mean to strike a nerve. It sucks things with your family aren't so great, but...why don't you spend Christmas with me? "],
-        "link": "https://www.youtube.com/embed/AWzH7xML-tg",
+        "link": "AWzH7xML-tg",
         "tags": "M4A Friends-to-Lovers Improv",
         "length": 966,
         "uploaded": "2021-12-11",
@@ -63,7 +84,7 @@
     {
         "title": "A Christmas Gift",
         "desc": ["Thank you so much for your support this year!", "This is one of the ways in which I hope I can pay it forward."],
-        "link": "https://www.youtube.com/embed/ZlN5kU8esSw",
+        "link": "ZlN5kU8esSw",
         "tags": "M4A Rambles",
         "length": 37,
         "uploaded": "2021-12-06",
@@ -73,7 +94,7 @@
     {
         "title": "Grieving During the Holidays",
         "desc": ["Hey, what's u- Woah, woah, woah. Are you okay? What's got you so upset?", "I know that missing a loved one during this time of the year can be hard, but take a deep breath and let me comfort you."],
-        "link": "https://www.youtube.com/embed/wTj8drKWfBg",
+        "link": "wTj8drKWfBg",
         "tags": "M4A Comfort Improv",
         "length": 1352,
         "uploaded": "2021-12-04",
@@ -83,7 +104,7 @@
     {
         "title": "The Bodyguard",
         "desc": ["Your father has given me a new task: to take care of you.", "I know things between us got a bit cold after you started dating your ex, but there's a reason for it."],
-        "link": "https://www.youtube.com/embed/95wSAaRaq8k",
+        "link": "95wSAaRaq8k",
         "tags": "M4A Friends-to-Lovers Improv Patreon-Exclusive",
         "length": 150,
         "uploaded": "2021-11-30",
@@ -93,7 +114,7 @@
     {
         "title": "Meeting Your Family - The Courtship Series, Part 7",
         "desc": ["Yes, baby? I'm not nervous! Well...maybe a little. ", "I know you've told your parents wonderful things about me, but I still want to make a good first impression. I want them to know how precious you are to me."],
-        "link": "https://www.youtube.com/embed/0irbxjxIfhw",
+        "link": "0irbxjxIfhw",
         "tags": "M4A Friends-to-Lovers Improv Patreon-Exclusive",
         "length": 148,
         "uploaded": "2021-11-30",
@@ -103,7 +124,7 @@
     {
         "title": "Snowstorm Snuggles",
         "desc": ["The snowstorm has turned this place into a mess. The receptionist says that there's only one room available!", "But now that we're here, sharing a bed, let me tell you about my true feelings for you."],
-        "link": "https://www.youtube.com/embed/h8AJZynX2iI",
+        "link": "h8AJZynX2iI",
         "tags": "M4A Friends-to-Lovers Improv",
         "length": 1148,
         "uploaded": "2021-11-27",
@@ -113,7 +134,7 @@
     {
         "title": "Thank You",
         "desc": ["'Tis the season to be grateful. I'd like to thank you for your support. It means so much to me."],
-        "link": "https://www.youtube.com/embed/Qj56pQep8d8",
+        "link": "Qj56pQep8d8",
         "tags": "M4A Rambles",
         "length": 236,
         "uploaded": "2021-11-26",
@@ -123,7 +144,7 @@
     {
         "title": "Is That My Hoodie?",
         "desc": ["I'm back, I was halfway there and realized I'd forgotten the package to return to Amazon... Baby, why are you hiding behind the couch?", "I think there's been some kind of miscommunication here. I don't mind you wearing my hoodies, and your reason for wanting to wear them is the sweetest thing ever."],
-        "link": "https://www.youtube.com/embed/1jGM5v-4efc",
+        "link": "1jGM5v-4efc",
         "tags": "M4A BFE Improv",
         "length": 824,
         "uploaded": "2021-11-20",
@@ -133,7 +154,7 @@
     {
         "title": "Going on Tour With Your Rock Star BF",
         "desc": ["The thing I hate most about being on tour is that you're away from me.", "But...maybe it doesn't have to be that way this time around."],
-        "link": "https://www.youtube.com/embed/0VlxxUfzD3A",
+        "link": "0VlxxUfzD3A",
         "tags": "M4A BFE Improv",
         "length": 682,
         "uploaded": "2021-11-13",
@@ -143,7 +164,7 @@
     {
         "title": "I'll Look After You",
         "desc": ["I didn't expect to see you tonight, I thought you were gonna be out with your friends all evening! Umm...sorry to ask, but how much have you had to drink?", "OK, baby, you're going to spend the night here and let me take care of you."],
-        "link": "https://www.youtube.com/embed/SwbrCxsj508",
+        "link": "SwbrCxsj508",
         "tags": "M4A BFE Comfort Improv",
         "length": 767,
         "uploaded": "2021-11-06",
@@ -153,7 +174,7 @@
     {
         "title": "Tsundere Demon Totally Isn't Into You",
         "desc": ["Stop thanking me for covering your shift! I didn't do it for you, I did it because I was bored. Don't accuse me of being nice, I'm not a nice guy!", "Oh...you heard that? Well, maybe I've got some kind of feelings for you..."],
-        "link": "https://www.youtube.com/embed/vea77-5-2Go",
+        "link": "vea77-5-2Go",
         "tags": "M4A Friends-to-Lovers Improv",
         "length": 605,
         "uploaded": "2021-10-23",
@@ -163,7 +184,7 @@
     {
         "title": "Asking a Werewolf to Turn You",
         "desc": ["Are you out of your mind?! You don't even know the risks this entails.", "If you did as much research on this as you said you did, you should know this is a curse."],
-        "link": "https://www.youtube.com/embed/vn1nx0WNF-0",
+        "link": "vn1nx0WNF-0",
         "tags": "M4A Improv",
         "length": 125,
         "uploaded": "2021-10-23",
@@ -173,7 +194,7 @@
     {
         "title": "I Love You - The Courtship Series, Part 6",
         "desc": ["Are you awake? Yeah, I didn't realize we'd fallen asleep, either. And that sounds like quite a storm outside. Why don't you just stay and snuggle up with me tonight?"],
-        "link": "https://www.youtube.com/embed/4CsYDiYZ4UU",
+        "link": "4CsYDiYZ4UU",
         "tags": "M4A Friends-to-Lovers Improv Patreon-Exclusive",
         "length": 103,
         "uploaded": "2021-10-23",
@@ -183,7 +204,7 @@
     {
         "title": "Our Memories Together",
         "desc": ["Trick-or-treating is done, my love! I've sent our daughter off to get ready for bed. I figure that buys us an hour or so to relax, unwind, and reminisce about the Halloweens we've spent together."],
-        "link": "https://www.youtube.com/embed/Bd9VDIE_kh0",
+        "link": "Bd9VDIE_kh0",
         "tags": "M4A BFE Improv",
         "length": 791,
         "uploaded": "2021-10-23",
@@ -193,7 +214,7 @@
     {
         "title": "Vampire BF Finds You Reading Twilight",
         "desc": ["Baby, dinner's almost ready! What was that...? You're hiding something!", "What?! No! Why would I be jealous of you reading about a sexy vampire?"],
-        "link": "https://www.youtube.com/embed/bqsrKd5qTgg",
+        "link": "bqsrKd5qTgg",
         "tags": "M4A BFE Improv",
         "length": 718,
         "uploaded": "2021-10-16",
@@ -203,7 +224,7 @@
     {
         "title": "The Halloween Party",
         "desc": ["Don't worry about bumping into me, this place is pretty crowded.", "Wait, what are you doing here?! I thought you were going to be out of town this weekend!"],
-        "link": "https://www.youtube.com/embed/UmTYWd8q6o0",
+        "link": "UmTYWd8q6o0",
         "tags": "M4A Friends-to-Lovers Improv",
         "length": 686,
         "uploaded": "2021-10-09",
@@ -213,7 +234,7 @@
     {
         "title": "If We're Meant to Be",
         "desc": ["I have to admit, I'm a little surprised to see you here. I wasn't expecting your visit. What's on your mind?", "I understand where you're coming from. I don't want things to be over between us but I see that they can't work out right now. If we're meant to be together, someday, somehow, we will be."],
-        "link": "https://www.youtube.com/embed/odbCU8sqlpw",
+        "link": "odbCU8sqlpw",
         "tags": "M4A Improv Patreon-Exclusive",
         "length": 166,
         "uploaded": "2021-10-04",
@@ -223,7 +244,7 @@
     {
         "title": "Reverse Comfort for Promotion",
         "desc": ["Hey, baby. Have you seen my tie? I'm sorry, you know how I get when I'm really stressed.", "Hang on. You ironed my shirt...made me breakfast...you thought of everything! What did I do to deserve you?"],
-        "link": "https://www.youtube.com/embed/lDPYlY9Ne0U",
+        "link": "lDPYlY9Ne0U",
         "tags": "M4A BFE Improv",
         "length": 960,
         "uploaded": "2021-10-02",
@@ -233,7 +254,7 @@
     {
         "title": "The Fake Boyfriend",
         "desc": ["Thanks for inviting me to your brother's wedding! I've had a great time today.", "Look, I know you told your family a little white lie about me being your boyfriend. I'm not mad about it at all, but is there something more to that that you want to talk about?"],
-        "link": "https://www.youtube.com/embed/5MgubDHtFPY",
+        "link": "5MgubDHtFPY",
         "tags": "M4A Friends-to-Lovers Improv",
         "length": 660,
         "uploaded": "2021-09-25",
@@ -243,7 +264,7 @@
     {
         "title": "Becoming a Couple - The Courtship Series, Part 5",
         "desc": ["Thanks for getting up early on a Saturday to come on a drive with me. I've been wanting to talk to you about something.", "You're always on my mind -- in a good way! I want to take the next big step in our relationship and commit to one another. How about it?"],
-        "link": "https://www.youtube.com/embed/CbWjvDAazcw",
+        "link": "CbWjvDAazcw",
         "tags": "M4A Friends-to-Lovers Improv Patreon-Exclusive",
         "length": 164,
         "uploaded": "2021-09-24",
@@ -253,7 +274,7 @@
     {
         "title": "Rainy Day In",
         "desc": ["You hear that? There go our plans to be outside today.", "Let's snuggle up and spend a cozy day at home instead."],
-        "link": "https://www.youtube.com/embed/AUH1g3ZtE-Y",
+        "link": "AUH1g3ZtE-Y",
         "tags": "M4A BFE Improv",
         "length": 850,
         "uploaded": "2021-09-18",
@@ -263,7 +284,7 @@
     {
         "title": "Let's Have a Baby",
         "desc": ["My love, I don't mind that our plans for the evening fell through and we have to babysit your niece.", "And now that we're on the topic of kids, what do you think about starting our own family soon?"],
-        "link": "https://www.youtube.com/embed/G2gWKqm4-zg",
+        "link": "G2gWKqm4-zg",
         "tags": "M4F BFE Improv",
         "length": 798,
         "uploaded": "2021-09-11",
@@ -273,7 +294,7 @@
     {
         "title": "The First Kiss - The Courtship Series, Part 4",
         "desc": ["No, I'm not telling you where we're going! I've never disappointed you with a surprise, have I? I have something special planned for the two of us and this time around there won't be any interruptions."],
-        "link": "https://www.youtube.com/embed/fjw-1LjeJ04",
+        "link": "fjw-1LjeJ04",
         "tags": "M4A Friends-to-Lovers Improv Patreon-Exclusive",
         "length": 157,
         "uploaded": "2021-09-04",
@@ -283,7 +304,7 @@
     {
         "title": "You're My Everything",
         "desc": ["Go to sleep, baby. It's way too early to be morning.", "Fine. You wanna fight dirty? I'll put you in a cuddle lock and tell you how wonderful you are."],
-        "link": "https://www.youtube.com/embed/T7b7awFl8Z4",
+        "link": "T7b7awFl8Z4",
         "tags": "M4A BFE Improv",
         "length": 780,
         "uploaded": "2021-09-04",
@@ -293,7 +314,7 @@
     {
         "title": "Let Me Pamper You",
         "desc": ["My darling, you look exhausted. Why don't you come hop in the shower with me?", "Let me pamper you and take care of your beautiful body."],
-        "link": "https://www.youtube.com/embed/XiFIgzLJ9wQ",
+        "link": "XiFIgzLJ9wQ",
         "tags": "M4A BFE Improv Patreon-Exclusive",
         "length": 130,
         "uploaded": "2021-08-29",
@@ -303,7 +324,7 @@
     {
         "title": "Taking a Study Break",
         "desc": ["I'm not sure how you can sit in one place studying for so long. Come on, let's stretch our legs and grab a snack.", "Did you hear about the campus party this weekend? I was hoping you'd go with me."],
-        "link": "https://www.youtube.com/embed/HHHYAVcWeLY",
+        "link": "HHHYAVcWeLY",
         "tags": "M4A Friends-to-Lovers Improv",
         "length": 865,
         "uploaded": "2021-08-28",
@@ -313,7 +334,7 @@
     {
         "title": "Lost in the Woods",
         "desc": ["Thanks for coming with me on this hike! It's been fun. Shall we head home?", "Umm... Something's wrong with the car. I can't get it to start. What are we gonna do?", "I may have an idea..."],
-        "link": "https://www.youtube.com/embed/wq-D7e2R6cE",
+        "link": "wq-D7e2R6cE",
         "tags": "M4A BFE Improv",
         "length": 629,
         "uploaded": "2021-08-21",
@@ -323,7 +344,7 @@
     {
         "title": "I Wasn't Talking About You!",
         "desc": ["Why are you so rude to me? I haven't done anything to you.", "Wait, that's what you're mad about? You've got the wrong idea. When I said that, I wasn't talking about you!"],
-        "link": "https://www.youtube.com/embed/bNi97YiCgok",
+        "link": "bNi97YiCgok",
         "tags": "M4A Friends-to-Lovers Improv",
         "length": 778,
         "uploaded": "2021-08-14",
@@ -333,7 +354,7 @@
     {
         "title": "Comfort After a Breakup",
         "desc": ["I'm so sorry to hear about your breakup. Let me comfort you as you grieve. That's what big brothers are for."],
-        "link": "https://www.youtube.com/embed/fNRTdalqq4w",
+        "link": "fNRTdalqq4w",
         "tags": "M4A Comfort Improv",
         "length": 839,
         "uploaded": "2021-08-07",
@@ -343,7 +364,7 @@
     {
         "title": "Surprising You at Work",
         "desc": ["Surprise! Betcha didn't expect me to show up at your job today.", "I got done with my work early and caught an earlier flight home. I just couldn't resist surprising you for your birthday."],
-        "link": "https://www.youtube.com/embed/rU_TarC1X7c",
+        "link": "rU_TarC1X7c",
         "tags": "M4A BFE Improv",
         "length": 700,
         "uploaded": "2021-07-31",
@@ -353,7 +374,7 @@
     {
         "title": "Meeting Your Friends - The Courtship Series, Part 3",
         "desc": ["It was really nice to meet your friends, they're a lot fun! They said you can't stop talking about me. Don't be embarrassed, the feeling is entirely mutual."],
-        "link": "https://www.youtube.com/embed/v01dN5moLT4",
+        "link": "v01dN5moLT4",
         "tags": "M4A Friends-to-Lovers Improv Patreon-Exclusive",
         "length": 101,
         "uploaded": "2021-07-25",
@@ -363,7 +384,7 @@
     {
         "title": "It's Just a Movie",
         "desc": ["Hey, what's wrong? I came here as soon as I could! I know that movie was scary, but you can rest easy in my arms.", "Umm... If I didn't know any better, I'd think you were moving in to kiss me. I'm not saying no, I'm just surprised you like me, too."],
-        "link": "https://www.youtube.com/embed/Y47b_0VBrog",
+        "link": "Y47b_0VBrog",
         "tags": "M4A Friends-to-Lovers Improv",
         "length": 722,
         "uploaded": "2021-07-24",
@@ -373,7 +394,7 @@
     {
         "title": "Stop Distracting Me!",
         "desc": ["I'm sorry it's taking so long for this call to be over, but...", "OK, that's cheating. Neck kisses are playing dirty. And turnabout is fair play."],
-        "link": "https://www.youtube.com/embed/ytA0pW-NTlw",
+        "link": "ytA0pW-NTlw",
         "tags": "M4A BFE Improv Patreon-Exclusive",
         "length": 105,
         "uploaded": "2021-07-21",
@@ -383,7 +404,7 @@
     {
         "title": "Lie Here With Me (1 hour with sleep sounds)",
         "desc": ["Shhhh... My darling, it's time for rest. Unburden your mind, snuggle with your man, and let's drift off together."],
-        "link": "https://www.youtube.com/embed/7rvvAbYLu9I",
+        "link": "7rvvAbYLu9I",
         "tags": "M4A BFE Comfort Improv",
         "length": 3643,
         "uploaded": "2021-07-17",
@@ -393,7 +414,7 @@
     {
         "title": "Lie Here With Me (1 hour with affirmations)",
         "desc": ["Shhhh... My darling, it's time for rest. Unburden your mind, snuggle with your man, and let's drift off together."],
-        "link": "https://www.youtube.com/embed/mHJ1RSE0WmE",
+        "link": "mHJ1RSE0WmE",
         "tags": "M4A BFE Comfort Sleep-Aid Affirmations Improv",
         "length": 3794,
         "uploaded": "2021-07-17",
@@ -403,7 +424,7 @@
     {
         "title": "Lie Here With Me",
         "desc": ["Shhhh... My darling, it's time for rest. Unburden your mind, snuggle with your man, and let's drift off together."],
-        "link": "https://www.youtube.com/embed/JBVXEX1EoXY",
+        "link": "JBVXEX1EoXY",
         "tags": "M4A BFE Comfort Sleep-Aid Improv",
         "length": 1266,
         "uploaded": "2021-07-17",
@@ -413,7 +434,7 @@
     {
         "title": "In-tents Feelings for You",
         "desc": ["Looks like we're all done for the day. Why don't you come sit with me by the campfire?", "There's something I've been meaning to tell you for a while."],
-        "link": "https://www.youtube.com/embed/_-uBmmlRxwQ",
+        "link": "_-uBmmlRxwQ",
         "tags": "M4A Friends-to-Lovers Improv",
         "length": 1085,
         "uploaded": "2021-07-10",
@@ -423,7 +444,7 @@
     {
         "title": "No, I'm Not Jealous!",
         "desc": ["Wait, he's coming back to town? And he's asking you out for drinks?!", "I'm not trying to be weird or anything, but I don't like that guy trying to get with my sweetheart."],
-        "link": "https://www.youtube.com/embed/mnBh9780LHU",
+        "link": "mnBh9780LHU",
         "tags": "M4A BFE Improv",
         "length": 786,
         "uploaded": "2021-07-03",
@@ -433,7 +454,7 @@
     {
         "title": "The First Date - The Courtship Series, Part 2",
         "desc": ["It's great to see you again! I know we'd planned for this bistro, but why don't we do something a bit different?", "I want this date to be something we both remember for a long time. "],
-        "link": "https://www.youtube.com/embed/O7dVQnmyiaY",
+        "link": "O7dVQnmyiaY",
         "tags": "M4A Friends-to-Lovers Improv Patreon-Exclusive",
         "length": 100,
         "uploaded": "2021-06-30",
@@ -443,7 +464,7 @@
     {
         "title": "So We Meet Again...",
         "desc": ["It's been a long time, I never thought I'd see you again. Let's see if the spark between us at the academy is still there."],
-        "link": "https://www.youtube.com/embed/aVgyHMLgE0U",
+        "link": "aVgyHMLgE0U",
         "tags": "M4A Friends-to-Lovers Improv Patreon-Exclusive",
         "length": 139,
         "uploaded": "2021-06-29",
@@ -453,7 +474,7 @@
     {
         "title": "Parasocial Relationships",
         "desc": ["Due to recent events in the voice acting community, I've created this podcast to discuss parasocial relationships between content creators and their audience."],
-        "link": "https://www.youtube.com/embed/X7EmiWNWTpg",
+        "link": "X7EmiWNWTpg",
         "tags": "M4A Rambles",
         "length": 1554,
         "uploaded": "2021-06-28",
@@ -463,7 +484,7 @@
     {
         "title": "You Have a Pizza My Heart",
         "desc": ["I'm excited to finally use our new pizza oven! I pulled out all the ingredients. Ready to get started?", "No, I didn't forget the pineapple. Pineapple doesn't go on pizza."],
-        "link": "https://www.youtube.com/embed/W-5u4nXYfZA",
+        "link": "W-5u4nXYfZA",
         "tags": "M4A BFE Improv",
         "length": 606,
         "uploaded": "2021-06-26",
@@ -473,7 +494,7 @@
     {
         "title": "Miles Between Us",
         "desc": ["The distance between us makes things so hard, but it makes out even sweeter when I get to be with you. I can't wait to visit you next week!"],
-        "link": "https://www.youtube.com/embed/Ka4ibbpwa6o",
+        "link": "Ka4ibbpwa6o",
         "tags": "M4A BFE Improv",
         "length": 1017,
         "uploaded": "2021-06-19",
@@ -483,7 +504,7 @@
     {
         "title": "You're Perfect to Me",
         "desc": ["Are you ready, baby? You may not think you look good, but you're the most beautiful thing in the world to me. Let me hold you and tell you all about it."],
-        "link": "https://www.youtube.com/embed/uvRUH51G6uY",
+        "link": "uvRUH51G6uY",
         "tags": "M4A BFE Affirmations Improv",
         "length": 1284,
         "uploaded": "2021-06-12",
@@ -493,7 +514,7 @@
     {
         "title": "What Should We Watch?",
         "desc": ["I've got our dessert! What have you got pulled up for us to watch?", "Mmm...not feeling that one...that one's too heavy for tonight... Hey! That show we've been watching together -- did you watch the next episode without me?!"],
-        "link": "https://www.youtube.com/embed/a_ejZIlulMs",
+        "link": "a_ejZIlulMs",
         "tags": "M4A BFE Improv",
         "length": 825,
         "uploaded": "2021-06-05",
@@ -503,7 +524,7 @@
     {
         "title": "Just the Two of Us",
         "desc": ["Oh, no! Our dinner guests had to cancel? Don't worry, my love. I know you're disappointed, but I've got an idea that will help you relax and feel closer to me."],
-        "link": "https://www.youtube.com/embed/w6YSGM-Dj2o",
+        "link": "w6YSGM-Dj2o",
         "tags": "M4A BFE Improv",
         "length": 838,
         "uploaded": "2021-05-29",
@@ -513,7 +534,7 @@
     {
         "title": "Let's Buy a What?!",
         "desc": ["I get that you wanted our destination to be a surprise, but was the blindfold really necessary?", "Umm...a pet store? Sweetheart, have you thought this through? I think there are some things we should consider..."],
-        "link": "https://www.youtube.com/embed/sj-qZsQA6pM",
+        "link": "sj-qZsQA6pM",
         "tags": "M4A BFE Improv",
         "length": 1052,
         "uploaded": "2021-05-22",
@@ -523,7 +544,7 @@
     {
         "title": "Meeting You - The Courtship Series, Part 1",
         "desc": ["My friend put me up to this. I know it's weird having a stranger hit you up like this, but can I get your number? You can give me a fake one if you want.", "Oh, you were, were you? In that case I take it back. Why don't you give me your real number? And since we both know where this is headed... Are you free this Friday?"],
-        "link": "https://www.youtube.com/embed/1ZFEBwKJYLw",
+        "link": "1ZFEBwKJYLw",
         "tags": "M4A Friends-to-Lovers Improv Patreon-Exclusive",
         "length": 106,
         "uploaded": "2021-05-20",
@@ -533,7 +554,7 @@
     {
         "title": "Snuggles or Cuddles?",
         "desc": ["It's too early to be morning, baby. Come snuggle up with me.", "Wait, there's a difference between snuggling and cuddling? Tell me more about it as we relax here together."],
-        "link": "https://www.youtube.com/embed/h3Y2RkYZs8w",
+        "link": "h3Y2RkYZs8w",
         "tags": "M4A BFE Improv",
         "length": 1254,
         "uploaded": "2021-05-15",
@@ -543,7 +564,7 @@
     {
         "title": "25K Subscriber Q&A",
         "desc": ["Come celebrate some milestones with me: 25K subscribers on YouTube; 3K followers on Reddit; and 2K members of my subreddit, r/TheMoonlightSonata!"],
-        "link": "https://www.youtube.com/embed/49DXsQGJWOk",
+        "link": "49DXsQGJWOk",
         "tags": "M4A Rambles",
         "length": 4116,
         "uploaded": "2021-04-19",
@@ -553,7 +574,7 @@
     {
         "title": "We Can Make New Plans",
         "desc": ["Don't worry about having to work late tonight. I've canceled our plans with those other couples and have something special just for the two of us."],
-        "link": "https://www.youtube.com/embed/YL1yxE50OLg",
+        "link": "YL1yxE50OLg",
         "tags": "M4A BFE Improv",
         "length": 248,
         "uploaded": "2021-03-20",
@@ -563,7 +584,7 @@
     {
         "title": "In Your Arms",
         "desc": ["It was a long day, baby. Let me relax in your arms and drift off."],
-        "link": "https://www.youtube.com/embed/H-dJ8OrtuNg",
+        "link": "H-dJ8OrtuNg",
         "tags": "M4A BFE Reverse-Comfort Improv",
         "length": 1445,
         "uploaded": "2021-03-13",
@@ -573,7 +594,7 @@
     {
         "title": "You and Me Makes Three",
         "desc": ["You've been fidgeting since we got here. What's on your mind?", "That's a big question. Are we ready to be parents? I think so, baby."],
-        "link": "https://www.youtube.com/embed/myBqHPrDtT8",
+        "link": "myBqHPrDtT8",
         "tags": "M4F BFE Comfort Affirmations Improv",
         "length": 726,
         "uploaded": "2021-03-06",
@@ -583,7 +604,7 @@
     {
         "title": "It Was Just a Nightmare",
         "desc": ["I'm awake! It's OK...I'm OK...I'm not OK...", "Baby, I had a nightmare. I know it's not going to hurt me, but it seemed so real!"],
-        "link": "https://www.youtube.com/embed/fKDVfPdPBQ0",
+        "link": "fKDVfPdPBQ0",
         "tags": "M4A BFE Reverse-Comfort Improv",
         "length": 860,
         "uploaded": "2021-02-27",
@@ -593,7 +614,7 @@
     {
         "title": "I'm Sorry",
         "desc": ["Can we talk?", "It's just...we had a little disagreement that we let grow into a fight. I want to apologize for my part in that."],
-        "link": "https://www.youtube.com/embed/AgMf36X_YvY",
+        "link": "AgMf36X_YvY",
         "tags": "M4A BFE Comfort Improv",
         "length": 693,
         "uploaded": "2021-02-20",
@@ -603,7 +624,7 @@
     {
         "title": "Valentine's Day Anti-Holiday",
         "desc": ["Our Valentine's Day anti-holiday only has two rules: no relationship talk and no rom-coms.", "But...well, I'm gonna break Rule Number One. Because there's this girl I've got my eye on and I really need your advice on this."],
-        "link": "https://www.youtube.com/embed/hM_AQ-B32CI",
+        "link": "hM_AQ-B32CI",
         "tags": "M4F Friends-to-Lovers Improv",
         "length": 855,
         "uploaded": "2021-02-14",
@@ -613,7 +634,7 @@
     {
         "title": "You're the Best Thing in My Life",
         "desc": ["I know it's the middle of the night, my love, but I'm craving your touch. Come snuggle up with me and let me shower you with love."],
-        "link": "https://www.youtube.com/embed/T9Da32lYpJk",
+        "link": "T9Da32lYpJk",
         "tags": "M4A BFE Affirmations Improv",
         "length": 790,
         "uploaded": "2021-02-06",
@@ -623,7 +644,7 @@
     {
         "title": "My Heart Belongs to You",
         "desc": ["Baby, if you wanted snuggles, you only had to ask. Come over here, put your head on my chest, and let me tell you exactly why I love you so much."],
-        "link": "https://www.youtube.com/embed/-ZDIliJC1Ao",
+        "link": "-ZDIliJC1Ao",
         "tags": "M4A BFE Comfort Affirmations Improv",
         "length": 849,
         "uploaded": "2021-01-30",
@@ -633,7 +654,7 @@
     {
         "title": "Breaking Your Rock Star Boyfriend's Creative Block",
         "desc": ["You were right, coming out to this cabin was a great idea. I really needed the time away from the city, the noise, work...", "But I can't completely turn my brain off, and I'm stressed about writing a follow-up to the latest album. I just don't know what to write about!"],
-        "link": "https://www.youtube.com/embed/nXFosYk0a70",
+        "link": "nXFosYk0a70",
         "tags": "M4A BFE Reverse-Comfort Improv",
         "length": 1259,
         "uploaded": "2021-01-15",
@@ -643,7 +664,7 @@
     {
         "title": "Home for Christmas",
         "desc": ["I'm sorry, my love, but the training op didn't go exactly as planned and I won't be coming home when we thought I would.", "Baby, \"didn't go exactly as planned\" doesn't mean it ran long. I'm home early, in time for Christmas!"],
-        "link": "https://www.youtube.com/embed/UFGAZp8kFTM",
+        "link": "UFGAZp8kFTM",
         "tags": "M4A BFE Improv",
         "length": 740,
         "uploaded": "2020-12-18",
@@ -653,7 +674,7 @@
     {
         "title": "Those Damn Elves",
         "desc": ["Well, this looks like the right house. Now to get down the chiiiiiii--", "Wow. Betrayed by the Arctic wind.", "Oh, crap! They're waking up! And I look like I broke in!", "(Script by MaeDay and carls)"],
-        "link": "https://www.youtube.com/embed/ZgQPBIah_c0",
+        "link": "ZgQPBIah_c0",
         "tags": "M4A Friends-to-Lovers Script-Fill",
         "length": 781,
         "uploaded": "2020-12-11",
@@ -663,7 +684,7 @@
     {
         "title": "They've Gotta Be Here Somewhere..., Part 1",
         "desc": ["Man, it's hard to believe I'm getting married tomorrow. The Big Day is finally here. And it's never seemed more daunting. I'm glad my best friend and I decided to get out of town and go camping. He's been married for a couple years and I think a heart-to-heart with him will help me feel more at ease.", "(Collab w/ Cardlin Audio)"],
-        "link": "https://www.youtube.com/embed/4IxeECzMa8M",
+        "link": "4IxeECzMa8M",
         "tags": "M4A BFE Improv",
         "length": 628,
         "uploaded": "2020-12-08",
@@ -673,7 +694,7 @@
     {
         "title": "From Me To You",
         "desc": ["I'm almost done with my Christmas shopping but there are still a couple people I need to shop for. Why don't you sit here with me and we'll do this together?"],
-        "link": "https://www.youtube.com/embed/kAypNWJ0egA",
+        "link": "kAypNWJ0egA",
         "tags": "M4A BFE Improv",
         "length": 718,
         "uploaded": "2020-12-04",
@@ -683,7 +704,7 @@
     {
         "title": "The Wrath of Grapes",
         "desc": ["Oooooh...my head...hurts so bad...", "Whaaaa...? Where am I? How did I get here? Where’s my other shoe?", "Oh, no... I remember now... Last night I got blackout drunk and confessed my love for you.", "Well, this is awkward."],
-        "link": "https://www.youtube.com/embed/LSX_DBtZk4E",
+        "link": "LSX_DBtZk4E",
         "tags": "M4A Friends-to-Lovers Improv",
         "length": 1214,
         "uploaded": "2020-11-29",
@@ -693,7 +714,7 @@
     {
         "title": "O Christmas Tree!",
         "desc": ["That's the last box of ornaments, right? No, let's not start decorating just yet. Snuggle up with me and let's remember Christmases past."],
-        "link": "https://www.youtube.com/embed/CTSkSr2lMTQ",
+        "link": "CTSkSr2lMTQ",
         "tags": "M4A BFE Improv",
         "length": 1013,
         "uploaded": "2020-11-27",
@@ -703,7 +724,7 @@
     {
         "title": "Dancing in the Rain",
         "desc": ["I haven’t heard of this band before but I really dig their sound! Looks like they’re wrapping up, though. Why don’t you pick who we listen to next?", "You know, I’m really glad you came to this music festival with me. My buddies are great, but you’re my girl and I’ll pick you over them every single time."],
-        "link": "https://www.youtube.com/embed/fFXSYgj752E",
+        "link": "fFXSYgj752E",
         "tags": "M4F BFE Improv",
         "length": 771,
         "uploaded": "2020-11-25",
@@ -713,7 +734,7 @@
     {
         "title": "Try a Little Tenderness",
         "desc": ["Mmmmm...this is my favorite part of the day: climbing into bed with you and whispering sweet nothings as we drift off together.", "(Script by u/Ms_Donovan)"],
-        "link": "https://www.youtube.com/embed/ZWYV_qUmrmw",
+        "link": "ZWYV_qUmrmw",
         "tags": "M4F BFE Comfort Sleep-Aid Script-Fill",
         "length": 659,
         "uploaded": "2020-11-22",
@@ -723,7 +744,7 @@
     {
         "title": "A Whole Latte Love",
         "desc": ["Wow, this place brings back memories! I don't really get here much anymore.", "Well...OK, that was a lie. I come here sometimes. Like, daily. It's my way of remembering the day we met."],
-        "link": "https://www.youtube.com/embed/ldcWwLCnJYU",
+        "link": "ldcWwLCnJYU",
         "tags": "M4A Friends-to-Lovers Improv",
         "length": 903,
         "uploaded": "2020-11-20",
@@ -733,7 +754,7 @@
     {
         "title": "Turn It All Off",
         "desc": ["I’ve been working in my office for hours and you’re exactly where you were when I went up there. Have you even moved?", "Yeah, sweetheart, I’m concerned about the state of things, too. This pandemic is affecting us all in one way or another. But fixating on all the bad news is hurting you. Turn it off and come lie down in my arms. Everything’s going to be alright.", "(Script by Witchyway24)"],
-        "link": "https://www.youtube.com/embed/68pcl6TEmmU",
+        "link": "68pcl6TEmmU",
         "tags": "M4F BFE Comfort Script-Fill",
         "length": 611,
         "uploaded": "2020-11-18",
@@ -743,7 +764,7 @@
     {
         "title": "It Was Just a Dream, Baby",
         "desc": ["Wake up! Babe, it’s OK! You’re safe, you’re home with me, everything’s alright!", "That nightmare must have been really bad, sweetheart. Come lie in my arms as I soothe you back to sleep."],
-        "link": "https://www.youtube.com/embed/fnd-buDglvQ",
+        "link": "fnd-buDglvQ",
         "tags": "M4F BFE Comfort Sleep-Aid Improv",
         "length": 860,
         "uploaded": "2020-11-15",
@@ -753,7 +774,7 @@
     {
         "title": "Right Here With You",
         "desc": ["I know you're really disappointed. You put your heart and soul into that project and it didn't work out. Snuggle up with me and let me love you through this disappointment."],
-        "link": "https://www.youtube.com/embed/N24lUUtyTnM",
+        "link": "N24lUUtyTnM",
         "tags": "M4A BFE Comfort Affirmations Improv",
         "length": 1599,
         "uploaded": "2020-11-13",
@@ -763,7 +784,7 @@
     {
         "title": "I Just Don't Like Her Is All",
         "desc": ["Let's sit outside, there's no room in here. Well, yeah, apart from that table, but I don't wanna sit that close to her. Doesn't she just make you sick?", "Oh, you could hear that? Look, I'm sorry. It's just, you're so perfect it drives me crazy!", "(Script by u/totallynotnatalie)"],
-        "link": "https://www.youtube.com/embed/KjdFRlJlTC0",
+        "link": "KjdFRlJlTC0",
         "tags": "M4F Friends-to-Lovers Script-Fill",
         "length": 459,
         "uploaded": "2020-11-11",
@@ -773,7 +794,7 @@
     {
         "title": "A Simple Misunderstanding",
         "desc": ["Let’s work on the presentation, we’ve gotta get this finished....", "Did I do something to upset you? It’s just, you’re always so cordial with everyone else and so distant with me. It get the impression you don’t like me much, am I mistaken?", "(Script by u/probably_flustered)"],
-        "link": "https://www.youtube.com/embed/fIVjyDRBMMU",
+        "link": "fIVjyDRBMMU",
         "tags": "M4F Friends-to-Lovers Script-Fill",
         "length": 423,
         "uploaded": "2020-11-08",
@@ -783,7 +804,7 @@
     {
         "title": "I've Got My Eye On You",
         "desc": ["What a day. I can't believe I had to bail those fools out ag--", "Who is she?! She's absolutely stunning! Is she...looking at me?", "(Script by Nonoy)"],
-        "link": "https://www.youtube.com/embed/LyntZp29b9k",
+        "link": "LyntZp29b9k",
         "tags": "M4F Script-Fill",
         "length": 723,
         "uploaded": "2020-11-06",
@@ -793,7 +814,7 @@
     {
         "title": "You're Not a Mistake",
         "desc": ["Lover, tell me what’s going on. Let me in.", "No, sweetheart, stop and listen to me. You’re not a mistake. You’re my whole world.", "(Script by u/probably_flustered)"],
-        "link": "https://www.youtube.com/embed/6mzsowKfrEk",
+        "link": "6mzsowKfrEk",
         "tags": "M4F BFE Comfort Script-Fill",
         "length": 319,
         "uploaded": "2020-11-04",
@@ -803,7 +824,7 @@
     {
         "title": "Bookstore Date",
         "desc": ["I love this place, it’s comforting to be surrounded by all these old books. Do you think anyone would notice if we just set up tents here in the store and stopped going to work?", "Seriously, though, take your time looking around. I could stay here with you all day.", "(Script by u/totallynotnatalie)"],
-        "link": "https://www.youtube.com/embed/5Z2tdwhHJf4",
+        "link": "5Z2tdwhHJf4",
         "tags": "M4F BFE Script-Fill",
         "length": 765,
         "uploaded": "2020-11-01",
@@ -813,7 +834,7 @@
     {
         "title": "Dorky Demon Fails to Harvest Your Soul",
         "desc": ["Go back to sleep! It's soooooooo much harder to harvest your soul if you're awake!", "Isn't it obvious? I'm a scary demon from the underworld and I'm here to harvest your... Hey! Stop laughing at me! This is serious!", "(Script by joaqeroni)"],
-        "link": "https://www.youtube.com/embed/ieVSX-5kTMo",
+        "link": "ieVSX-5kTMo",
         "tags": "M4A Fantasy Script-Fill",
         "length": 567,
         "uploaded": "2020-10-30",
@@ -823,7 +844,7 @@
     {
         "title": "But I Like the One We've Got!",
         "desc": ["Babe, furniture shopping sucks. Why do we have to get rid of our couch, anyway?"],
-        "link": "https://www.youtube.com/embed/EPZG2POBcik",
+        "link": "EPZG2POBcik",
         "tags": "M4F BFE Improv",
         "length": 645,
         "uploaded": "2020-10-28",
@@ -833,7 +854,7 @@
     {
         "title": "I've Got You",
         "desc": ["I've been looking forward to this all day. Come with me, let me wrap you in my arms and hold you close. Lean into me and let my voice soothe you. Let all your cares and your worries drift away. I've got you."],
-        "link": "https://www.youtube.com/embed/6jnUMwZYqwQ",
+        "link": "6jnUMwZYqwQ",
         "tags": "M4F BFE Comfort Improv",
         "length": 598,
         "uploaded": "2020-10-25",
@@ -843,7 +864,7 @@
     {
         "title": "You Want Me to Fight a Bear?!",
         "desc": ["Nooooooooo...it's too early to be awake. Baby, it's a Saturd--", "Did you hear that? Yeah, me too. There's something downstairs. It's too big to be human. I think there's a bear in the house!"],
-        "link": "https://www.youtube.com/embed/tXGT8QRnrcM",
+        "link": "tXGT8QRnrcM",
         "tags": "M4A BFE Improv",
         "length": 889,
         "uploaded": "2020-10-23",
@@ -853,7 +874,7 @@
     {
         "title": "We Can Dance If We Want To",
         "desc": ["Wake up, sleepyhead! I washed all the laundry, come help me fold it.", "No, don’t turn on music. I know you - you'll try to dance and not help!"],
-        "link": "https://www.youtube.com/embed/q8r_plfSHQo",
+        "link": "q8r_plfSHQo",
         "tags": "M4F BFE Improv",
         "length": 532,
         "uploaded": "2020-10-21",
@@ -863,7 +884,7 @@
     {
         "title": "I Want You to Be Mine",
         "desc": ["We've been friends for so long. We've shared our deepest fears and greatest hopes. I've grown to love you as more than just a friend.", "I've worked up the courage, I've rehearsed what I'm going to say. Tonight is the night I confess my love.", "(Script by u/GeeWizItsGiz)"],
-        "link": "https://www.youtube.com/embed/UC3t1vbakCw",
+        "link": "UC3t1vbakCw",
         "tags": "M4F Friends-to-Lovers Script-Fill",
         "length": 615,
         "uploaded": "2020-10-18",
@@ -873,7 +894,7 @@
     {
         "title": "Will You Marry Me?",
         "desc": ["Here it is: the place where our relationship started! Being here brings back lots of memories. And it makes me think about the future I want to have with you."],
-        "link": "https://www.youtube.com/embed/1ltB3aae5R8",
+        "link": "1ltB3aae5R8",
         "tags": "M4A BFE Improv",
         "length": 891,
         "uploaded":"2020-10-16",
@@ -883,7 +904,7 @@
     {
         "title": "Let Me Be Strong for You",
         "desc": ["Struggling with burnout? Come sit with me and let me wrap you up in my arms. You’re so strong for everyone else, let me be strong for you."],
-        "link": "https://www.youtube.com/embed/UqfYUnEtqvE",
+        "link": "UqfYUnEtqvE",
         "tags": "M4F Comfort Improv",
         "length": 810,
         "uploaded": "2020-10-14",
@@ -893,7 +914,7 @@
     {
         "title": "What Should We Do for Dinner?",
         "desc": ["Where do you wanna go for dinner? Seriously, babe I don't care. Anywhere's fine.", "Well...not there. Our there. Or that kind of food. OK, fiiiiiine. I guess I do have a preference.", "(Script by u/totallynotnatalie)"],
-        "link": "https://www.youtube.com/embed/T9XJgNaQQ1k",
+        "link": "T9XJgNaQQ1k",
         "tags": "M4F BFE Script-Fill",
         "length": 398,
         "uploaded": "2020-10-11",
@@ -903,7 +924,7 @@
     {
         "title": "You've Got This",
         "desc": ["Getting ready for your first day at the new job, huh? You look great!", "You're really nervous about this, aren't you? My love, you don't need to be. You're cut out for this and you're going to be a star."],
-        "link": "https://www.youtube.com/embed/AdOdJHA3HgU",
+        "link": "AdOdJHA3HgU",
         "tags": "M4F BFE Affirmations Improv",
         "length": 860,
         "uploaded": "2020-10-09",
@@ -913,7 +934,7 @@
     {
         "title": "Baby, I've Got the Flu",
         "desc": ["I felt fine when I went to work today but I started to feel sick and now I’m completely miserable. I think it’s the flu.", "Thank you for taking care of me, baby. I’m lucky to have you looking after me."],
-        "link": "https://www.youtube.com/embed/My2plDna6Xk",
+        "link": "My2plDna6Xk",
         "tags": "M4F BFE Affirmations Reverse-Comfort Improv",
         "length": 748,
         "uploaded": "2020-10-07",
@@ -923,7 +944,7 @@
     {
         "title": "Sleepy Bedtime Snuggles",
         "desc": ["What a day, babe, I’m completely exhausted. Let’s snuggle up together and unwind."],
-        "link": "https://www.youtube.com/embed/N-dMMSVjfPo",
+        "link": "N-dMMSVjfPo",
         "tags": "M4F BFE Sleep-Aid Improv",
         "length": 857,
         "uploaded": "2020-10-07",
@@ -933,7 +954,7 @@
     {
         "title": "I Am the Luckiest",
         "desc": ["Honey, I'm home! Where are you?", "Hey, what's eating at you? No, don't do that to me... Talk to me, don't shut me out. Let me take care of you. Come put your head in my lap...close your eyes...", "I'm sorry this day broke you down, sweetheart. Let me build you back up."],
-        "link": "https://www.youtube.com/embed/yWfmWsaPJv8",
+        "link": "yWfmWsaPJv8",
         "tags": "M4F BFE Comfort Improv",
         "length": 679,
         "uploaded": "2020-10-04",
@@ -943,7 +964,7 @@
     {
         "title": "The Once and Future Prince, Part 2",
         "desc": ["I'm sure we'll find my true love, all we have to do is knock on every door in the kingdom! How hard could...that...", "There's another way? The Seven Labors? Well, what's the first one? And does it have anything to do with the lion that's so conveniently outside your door?", "(Script by u/totallynotnatalie)"],
-        "link": "https://www.youtube.com/embed/9q2I010gznY",
+        "link": "9q2I010gznY",
         "tags": "M4A Fantasy Script-Fill",
         "length": 580,
         "uploaded": "2020-10-02",
@@ -953,7 +974,7 @@
     {
         "title": "Comforting the Caregiver",
         "desc": ["Are you OK? I know you’ve had family in and out of the hospital a lot lately, and it looks like it’s really affecting you. There’s a place we can sit down together, let’s go take a few minutes for you."],
-        "link": "https://www.youtube.com/embed/LVGYGnvb4C0",
+        "link": "LVGYGnvb4C0",
         "tags": "M4F Comfort Improv",
         "length": 577,
         "uploaded": "2020-09-30",
@@ -963,7 +984,7 @@
     {
         "title": "I'll Guard Your Dreams",
         "desc": ["Don't be afraid to sleep, my love. I'm your husband, I love you, and you're safe with me. I'll guard your dreams and stay with you all night long."],
-        "link": "https://www.youtube.com/embed/_DK_7Kjkf3Y",
+        "link": "_DK_7Kjkf3Y",
         "tags": "M4F BFE Comfort Sleep-Aid Improv",
         "length": 825,
         "uploaded": "2020-09-29",
@@ -973,7 +994,7 @@
     {
         "title": "In My Arms",
         "desc": ["I’m sorry you two had a fight, my darling. It seems like that happens quite a bit, but I know it affects you. Please come relax with me. Lie in my arms, put your head on my chest, and let my voice carry you away."],
-        "link": "https://www.youtube.com/embed/XYEw8S_mOo4",
+        "link": "XYEw8S_mOo4",
         "tags": "M4F BFE Comfort Sleep-Aid Improv",
         "length": 1302,
         "uploaded": "2020-09-27",
@@ -983,7 +1004,7 @@
     {
         "title": "Take My Heart Tonight",
         "desc": ["This isn't a step I take lightly; I'm actually scared to take it. But tonight, here, with you, I feel like I can do this. Tonight, I'm giving you my heart.", "(Script by u/totallynotnatalie)"],
-        "link": "https://www.youtube.com/embed/AyZTOXlELxQ",
+        "link": "AyZTOXlELxQ",
         "tags": "M4F Script-Fill",
         "length": 384,
         "uploaded": "2020-09-23",
@@ -993,7 +1014,7 @@
     {
         "title": "The Once and Future Prince",
         "desc": ["Page! I have wonderful news! I've fallen in love and I'm gonna get married!", "What do you mean, to whom? A beautiful maiden I saw. It was love at first sight! Well...I suppose she hasn't seen me yet... But she's bound to love me, I'm the crown prince!", "(Script by u/totallynotnatalie)"],
-        "link": "https://www.youtube.com/embed/-I3ANpJip9M",
+        "link": "-I3ANpJip9M",
         "tags": "M4F Fantasy Script-Fill",
         "length": 455,
         "uploaded": "2020-09-20",
@@ -1003,7 +1024,7 @@
     {
         "title": "You Should Be Studying!",
         "desc": ["I should give you your space so you can study. Your exam tomorrow is *important!* If I stick around I'll just distract you.", "Fine, I'll keep you company but you need to stay on task.", "How did this turn from \"I'm gonna give you some space\" into you being in my lap? Wait... this was your plan all along!"],
-        "link": "https://www.youtube.com/embed/BUrxS5FJkTY",
+        "link": "BUrxS5FJkTY",
         "tags": "M4F BFE Improv",
         "length": 1041,
         "uploaded": "2020-09-16",
@@ -1013,7 +1034,7 @@
     {
         "title": "What I Love About You",
         "desc": ["We haven't had much time together lately. Why don't we work on that, starting with a movie night here at home?", "I've been thinking a lot about how lucky I am to have you. Before we start the show, come cuddle up with me and let me tell you just how wonderful you are."],
-        "link": "https://www.youtube.com/embed/dj7o0IjHx-E",
+        "link": "dj7o0IjHx-E",
         "tags": "M4F BFE Affirmations Improv",
         "length": 795,
         "uploaded": "2020-09-13",
@@ -1023,7 +1044,7 @@
     {
         "title": "Comfort for Panic",
         "desc": ["Darling, I came as fast as I could, what's--", "Breathe, my love. Listen to my voice. You're safe. You're safe here with me. Relax and let my voice soothe you.", "You're safe here with your husband."],
-        "link": "https://www.youtube.com/embed/94W4b1WR6Jk",
+        "link": "94W4b1WR6Jk",
         "tags": "M4A BFE Comfort Sleep-Aid Improv",
         "length": 993,
         "uploaded": "2020-09-11",
@@ -1033,7 +1054,7 @@
     {
         "title": "Safe With Me",
         "desc": ["Sweetheart, what are you doing awake in the middle of the night? Hey... Babe, you’re covered in sweat and breathing like you just ran a race!", "Shhh...I’ll help you through this panic attack just like you helped me through mine. It doesn’t make you a burden. It’s part of how we care for each other. Relax with me, my darling, and breathe...", "(Script by u/Ms_Donovan)"],
-        "link": "https://www.youtube.com/embed/jSQ6Up1h3IA",
+        "link": "jSQ6Up1h3IA",
         "tags": "M4F BFE Comfort Sleep-Aid Script-Fill",
         "length": 798,
         "uploaded": "2020-09-09",
@@ -1043,7 +1064,7 @@
     {
         "title": "Snuggles On the Softest Sofa",
         "desc": ["Ooooooh...this sofa is sooooooo soft... I just want to snuggle down into it...", "No, my love, I'm not trying to tempt you over here. I know you're working on Something Very Important. I'd never try to take you away from that.", "I'm just appreciating how cozy and snuggly this sofa is. I'm sure that chair you're sitting on is great, too. But really -- this sofa... It's like sinking into a cloud..."],
-        "link": "https://www.youtube.com/embed/Erc2hk-WHcM",
+        "link": "Erc2hk-WHcM",
         "tags": "M4A BFE Improv",
         "length": 1065,
         "uploaded": "2020-09-08",
@@ -1053,7 +1074,7 @@
     {
         "title": "Working It Out",
         "desc": ["Hi, are you my next client? Great! I'm your new personal trainer. Let's step into the office and get started with some paperwork and questions.", "What are your fitness goals? Really... Hmm. You've said some pretty negative things about your body. May I help you reframe things so you can see how great your body really is?", "(Script by u/Ms_Donovan)"],
-        "link": "https://www.youtube.com/embed/HQC0ohXkM6g",
+        "link": "HQC0ohXkM6g",
         "tags": "M4F Affirmations Script-Fill",
         "length": 412,
         "uploaded": "2020-09-06",
@@ -1063,7 +1084,7 @@
     {
         "title": "Under the Stars",
         "desc": ["See where I’m pointing? That’s Orion. Right there. Look right where I’m pointing!", "What are you...? No, of course I don’t mind you scooting closer. Are you...snuggling me?", "This is scary, but I need to do it. I need to tell you how I feel."],
-        "link": "https://www.youtube.com/embed/Zl-cUMsCDX8",
+        "link": "Zl-cUMsCDX8",
         "tags": "M4A Friends-to-Lovers Improv",
         "length": 898,
         "uploaded": "2020-09-04",
@@ -1073,7 +1094,7 @@
     {
         "title": "Put Your Head In My Lap - Original",
         "desc": ["My day was great, but it sounds like yours wasn't. What happened?", "No, you are not 'just fine.' You think I can't tell?", "Oh sweetheart, why can't you see yourself for the incredible person you are?", "(Script by Moonlight Audio)"],
-        "link": "https://www.youtube.com/embed/3J_II6AIrwk",
+        "link": "3J_II6AIrwk",
         "tags": "M4F BFE Comfort Affirmations Script-Fill",
         "length": 419,
         "uploaded": "2020-09-02",
@@ -1083,7 +1104,7 @@
     {
         "title": "Period Comfort",
         "desc": ["My darling, what’s wrong? Cramps... pain... Say no more. Just relax and let your man take care of you."],
-        "link": "https://www.youtube.com/embed/bF5nHOMzRlk",
+        "link": "bF5nHOMzRlk",
         "tags": "M4F BFE Comfort Sleep-Aid Improv Popular",
         "length": 825,
         "uploaded": "2020-09-01",
@@ -1093,7 +1114,7 @@
     {
         "title": "After Office Hours",
         "desc": ["You're here awfully late. Grading term papers? Yeah, me too. You ought to get home, though. I don't have anyone waiting up for me, but you... Wait, you don't have a boyfriend? I was sure you did! It's the only reason I haven't told you that I'm in love with you!"],
-        "link": "https://www.youtube.com/embed/l6vWDpbp-oc",
+        "link": "l6vWDpbp-oc",
         "tags": "M4F Friends-to-Lovers Improv",
         "length": 886,
         "uploaded": "2020-08-28",
@@ -1103,7 +1124,7 @@
     {
         "title": "You're Worth It",
         "desc": ["Honey, you've had your eyes glued to your phone all evening. I haven't been able to get a word out of you! I know you well enough to tell when you're walling yourself off. Please talk to me, babe. I'm your guy, you're safe here with me.", "(Script by Emi)"],
-        "link": "https://www.youtube.com/embed/-BkzwAFocRo",
+        "link": "-BkzwAFocRo",
         "tags": "M4F BFE Comfort Affirmations Script-Fill",
         "length": 631,
         "uploaded": "2020-08-26",
@@ -1113,7 +1134,7 @@
     {
         "title": "Comfort for Headaches",
         "desc": ["You've got a headache? I'm sorry to hear that. Let me take care of you and gently talk you to sleep."],
-        "link": "https://www.youtube.com/embed/gGpCrReNiuw",
+        "link": "gGpCrReNiuw",
         "tags": "M4A BFE Comfort Sleep-Aid Improv",
         "length": 826,
         "uploaded": "2020-08-25",
@@ -1123,7 +1144,7 @@
     {
         "title": "Good Morning, Sunshine",
         "desc": ["Good morning, baby. I'm awake and cheerful and silly this morning. Why? Because the best part of my day is waking up next to you."],
-        "link": "https://www.youtube.com/embed/lAFNkKnSUcs",
+        "link": "lAFNkKnSUcs",
         "tags": "M4F BFE Improv",
         "length": 834,
         "uploaded": "2020-08-23",
@@ -1133,7 +1154,7 @@
     {
         "title": "Tsundere Coworker Totally Isn't Worried About You",
         "desc": ["You're late to work. Why are you late? No no no no no this is not good, this is bad, this is really bad, this is-- Hey! You're here! You're safe!", "What? No! I wasn't worried you'd been in an accident or got sick or got abducted or anything. Really. Totally not worried. Like, at all."],
-        "link": "https://www.youtube.com/embed/Z34MKj5RNcM",
+        "link": "Z34MKj5RNcM",
         "tags": "M4A Friends-to-Lovers Improv",
         "length": 697,
         "uploaded": "2020-08-21",
@@ -1143,7 +1164,7 @@
     {
         "title": "No More Grey",
         "desc": ["Sweetheart, did you fall asleep during our storytime? That's OK. Rest easy, relax and dream in my arms.", "My world was shades of grey, but you brought color back to it. My darling, there will never be another like you.", "(Script by peachy-keen-bean)"],
-        "link": "https://www.youtube.com/embed/rI3xxpC6ggg",
+        "link": "rI3xxpC6ggg",
         "tags": "M4F BFE Script-Fill",
         "length": 833,
         "uploaded": "2020-08-19",
@@ -1153,7 +1174,7 @@
     {
         "title": "Dorky Ghost Haunts Your Car",
         "desc": ["Boo! Ha! I scared you!", "What do you mean, you're not scared? You're totally scared! Stop trying to fool me.", "I'm a ghooooost...and I'm scaaaaaary..."],
-        "link": "https://www.youtube.com/embed/9FvJ-uXj3e8",
+        "link": "9FvJ-uXj3e8",
         "tags": "M4A Fantasy Improv",
         "length": 976,
         "uploaded": "2020-08-18",
@@ -1163,7 +1184,7 @@
     {
         "title": "Relaxing Your Stress Away",
         "desc": ["You've been up out of bed three times now. I'm sorry that problem has you stressed, but you're gonna get it figured out. For now, the best thing is to get some sleep. Come back to bed, let me help you relax."],
-        "link": "https://www.youtube.com/embed/pAWaoQm7A_M",
+        "link": "pAWaoQm7A_M",
         "tags": "M4F BFE Comfort Sleep-Aid Improv",
         "length": 1475,
         "uploaded": "2020-08-16",
@@ -1173,7 +1194,7 @@
     {
         "title": "Rainy Morning Cuddles",
         "desc": ["Mmmmm...what a rainy morning. Let's not get up, sweetness. Let's stay in bed and cuddle."],
-        "link": "https://www.youtube.com/embed/YDRlQ3r93a4",
+        "link": "YDRlQ3r93a4",
         "tags": "M4F BFE Improv Popular",
         "length": 1367,
         "uploaded": "2020-08-14",
@@ -1183,7 +1204,7 @@
     {
         "title": "What We Do for Each Other - Original",
         "desc": ["Something's bothering you, I can tell. Please don't shut me out. Let's talk about it.", "(Script by u/strawberriessweet)"],
-        "link": "https://www.youtube.com/embed/plHhlKfQAi8",
+        "link": "plHhlKfQAi8",
         "tags": "M4F BFE Comfort Affirmations Script-Fill",
         "length": 649,
         "uploaded": "2020-08-12",
@@ -1193,7 +1214,7 @@
     {
         "title": "10K Subscriber Q&A",
         "desc": ["Thank you for your support!"],
-        "link": "https://www.youtube.com/embed/mUHOW9s_0F0",
+        "link": "mUHOW9s_0F0",
         "tags": "M4A Rambles",
         "length": 5168,
         "uploaded": "2020-08-11",
@@ -1203,7 +1224,7 @@
     {
         "title": "Jealous Best Friend Confesses His Love",
         "desc": ["You’re my friend, you’re my _best_ friend, and I just want you to be happy. So when I heard that your ex wanted to get back together with you, I thought, '...Him?' I just think there are other guys who’d love to be the man in your life..."],
-        "link": "https://www.youtube.com/embed/0ZMCcbK17xY",
+        "link": "0ZMCcbK17xY",
         "tags": "M4A Friends-to-Lovers Improv Popular",
         "length": 1012,
         "uploaded": "2020-08-07",
@@ -1213,7 +1234,7 @@
     {
         "title": "Working On My Computer",
         "desc": ["Earlier today, my channel reached the remarkable milestone of 10,000 subscribers! To thank my wonderful supporters, I've decided to post a ramble I made on July 4, 2020 as I did some hardware repair work on my desktop computer. Nothing special, just me chatting as I work."],
-        "link": "https://www.youtube.com/embed/FJcEp98WO_k",
+        "link": "FJcEp98WO_k",
         "tags": "M4A Rambles",
         "length": 1603,
         "uploaded": "2020-08-01",
@@ -1223,7 +1244,7 @@
     {
         "title": "Lights Out!",
         "desc": ["Good night, sweetheart. No, YOU get up and turn out the light. What are you talking about, it’s my turn?! We’re taking turns now? Doesn’t matter what nonsense you make up, I am not getting out of bed!"],
-        "link": "https://www.youtube.com/embed/4YFn3e-ij4c",
+        "link": "4YFn3e-ij4c",
         "tags": "M4A BFE Improv",
         "length": 970,
         "uploaded": "2020-07-28",
@@ -1233,7 +1254,7 @@
     {
         "title": "So Fire, So Good!",
         "desc": ["Well, this is just great. I got lost on my way to Mom’s lair – AGAIN – and she’s gonna flip out if I’m late to dinner. I’m gonna have to ask those humans for directions…"],
-        "link": "https://www.youtube.com/embed/iNB9KDHO9XU",
+        "link": "iNB9KDHO9XU",
         "tags": "M4F Fantasy Improv",
         "length": 1123,
         "uploaded": "2020-07-24",
@@ -1243,7 +1264,7 @@
     {
         "title": "Put Your Head In My Lap - Remastered",
         "desc": ["My day was great, but it sounds like yours wasn't. What happened?", "No, you are not \"just fine.\" You think I can't tell?", "Oh sweetheart, why can't you see yourself for the incredible person you are?", "(Script by Moonlight Audio)"],
-        "link": "https://www.youtube.com/embed/1Lu-4_GMlK4",
+        "link": "1Lu-4_GMlK4",
         "tags": "M4F BFE Comfort Affirmations Script-Fill",
         "length": 458,
         "uploaded": "2020-07-23",
@@ -1253,7 +1274,7 @@
     {
         "title": "The Past Does Not Define You",
         "desc": ["You are not defined by your past. The only thing that defines you...is you."],
-        "link": "https://www.youtube.com/embed/AkAyGLKAizY",
+        "link": "AkAyGLKAizY",
         "tags": "M4A Comfort Affirmations Improv",
         "length": 531,
         "uploaded": "2020-07-21",
@@ -1263,7 +1284,7 @@
     {
         "title": "Your Rock Star Boyfriend Comes Home",
         "desc": ["I'm home! The recording session was successful but I always hate being without you. Come over here and let's snuggle. Being home with you is my favorite thing."],
-        "link": "https://www.youtube.com/embed/Y-cbkc4chFc",
+        "link": "Y-cbkc4chFc",
         "tags": "M4F BFE Improv Popular",
         "length": 1051,
         "uploaded": "2020-07-17",
@@ -1274,7 +1295,7 @@
     {
         "title": "You Are My Best Friend",
         "desc": ["Sweetness, you're my best friend and you mean the world to me."],
-        "link": "https://www.youtube.com/embed/4OntZaMQEjA",
+        "link": "4OntZaMQEjA",
         "tags": "M4A Affirmations Improv",
         "length": 715,
         "uploaded": "2020-07-14",
@@ -1284,7 +1305,7 @@
     {
         "title": "Don't Cuddle Me!",
         "desc": ["Welcome home.", "My day was fine. I’m not grumpy.", "I just don’t want cuddles!"],
-        "link": "https://www.youtube.com/embed/yI2v57t5KEo",
+        "link": "yI2v57t5KEo",
         "tags": "M4A BFE Improv Popular",
         "length": 855,
         "uploaded": "2020-07-10",
@@ -1294,7 +1315,7 @@
     {
         "title": "What We Do for Each Other - Remastered",
         "desc": ["Something's bothering you, I can tell. Please don't shut me out. Let's talk about it.", "(Script by u/strawberriessweet)"],
-        "link": "https://www.youtube.com/embed/DTGMLywNQkI",
+        "link": "DTGMLywNQkI",
         "tags": "M4F BFE Comfort Affirmations Script-Fill",
         "length": 675,
         "uploaded": "2020-07-09",
@@ -1304,7 +1325,7 @@
     {
         "title": "Comforting Job Interview Anxiety",
         "desc": ["Sure, we can get pizza tonight. Is it...celebratory pizza? No? Why do you feel you flubbed that job interview, sweetness? You did your best and no one can ask more than that."],
-        "link": "https://www.youtube.com/embed/aqCMPLeW9bQ",
+        "link": "aqCMPLeW9bQ",
         "tags": "M4A BFE Comfort Improv",
         "length": 840,
         "uploaded": "2020-07-07",
@@ -1315,7 +1336,7 @@
     {
         "title": "A Picture of Your Vampire Boyfriend",
         "desc": ["I’m so excited! I felt bad that you couldn’t take a picture of me and put it on your lock screen, so I did something and now I have a surprise for you!"],
-        "link": "https://www.youtube.com/embed/UkLsn8Md6yA",
+        "link": "UkLsn8Md6yA",
         "tags": "M4A BFE Fantasy Reverse-Comfort Improv",
         "length": 756,
         "uploaded": "2020-07-03",
@@ -1325,7 +1346,7 @@
     {
         "title": "Taking Care of You",
         "desc": ["I thought you’d be at work already! Sweetheart, did you stay home just to spend more time with me? ... Hey, are you feeling OK? Oh darling, I’m so sorry you’re sick. Come snuggle up and let me take care of you."],
-        "link": "https://www.youtube.com/embed/grk_pYzaTY4",
+        "link": "grk_pYzaTY4",
         "tags": "M4F BFE Comfort Sleep-Aid Improv Popular",
         "length": 783,
         "uploaded": "2020-06-30",
@@ -1335,7 +1356,7 @@
     {
         "title": "Waking Up Together",
         "desc": ["It’s too early to be morning, I don’t wanna get up.", "Hang on…she’s right here next to me. Last night really happened!"],
-        "link": "https://www.youtube.com/embed/_gS-JkkssgQ",
+        "link": "_gS-JkkssgQ",
         "tags": "M4F BFE Improv Popular",
         "length": 1334,
         "uploaded": "2020-06-26",
@@ -1345,7 +1366,7 @@
     {
         "title": "Give Yourself Grace",
         "desc": ["I’m just learning how to build blanket forts; that’s kind of your specialty. Come cuddle up with me and tell me if this one’s snuggly enough."],
-        "link": "https://www.youtube.com/embed/H0FgUgc5iCw",
+        "link": "H0FgUgc5iCw",
         "tags": "M4A BFE Affirmations Improv",
         "length": 899,
         "uploaded": "2020-06-23",
@@ -1355,7 +1376,7 @@
     {
         "title": "Comforting You During a Storm",
         "desc": ["Why are you awake, my darling? What’s bothering you? The storm has you upset?", "It’s OK, sweetness. You don’t need to be afraid. You’re right where you belong: snuggled up in my arms."],
-        "link": "https://www.youtube.com/embed/whkmYJU_9VU",
+        "link": "whkmYJU_9VU",
         "tags": "M4A BFE Comfort Sleep-Aid Improv",
         "length": 883,
         "uploaded": "2020-06-19",
@@ -1365,7 +1386,7 @@
     {
         "title": "Welcoming My Movie Star Girlfriend Home",
         "desc": ["Welcome home, babe, I missed you. Did you get all the footage you needed?", "I don’t know what you’re talking about, I’m not acting strange. Really, I’m fine. It’s just a little thing, I really don’t want to bother you with it."],
-        "link": "https://www.youtube.com/embed/-ObmmMj2sDg",
+        "link": "-ObmmMj2sDg",
         "tags": "M4F BFE Reverse-Comfort Improv",
         "length": 922,
         "uploaded": "2020-06-12",
@@ -1375,7 +1396,7 @@
     {
         "title": "You've Never Been More Beautiful",
         "desc": ["I can only imagine how hard it must be to carry this child and experience all the changes that are happening to you right now. But my darling, you’re more beautiful now than you’ve ever been. I fall more in love with you every day."],
-        "link": "https://www.youtube.com/embed/kMr5raR9FJA",
+        "link": "kMr5raR9FJA",
         "tags": "M4F BFE Comfort Improv Popular",
         "length": 793,
         "uploaded": "2020-06-09",
@@ -1385,7 +1406,7 @@
     {
         "title": "I Drink I Love You!!!",
         "desc": ["I’ve been looking everywhere for you! I looked in the house and in the front yard but I couldn’t find you because here you are!", "I’m not drunk, I just had a sip. You're pretty and I really like you."],
-        "link": "https://www.youtube.com/embed/c_SwXshDPeg",
+        "link": "c_SwXshDPeg",
         "tags": "M4A Friends-to-Lovers Improv",
         "length": 963,
         "uploaded": "2020-06-05",
@@ -1396,7 +1417,7 @@
     {
         "title": "You Did Your Best and That's Enough",
         "desc": ["What? It didn’t work? All that hard work and you have to start over from the beginning?", "Oh no, sweetness. I’m so sorry. I know it hurts. But don’t beat yourself up. You’re talented and strong, and I know you did your best."],
-        "link": "https://www.youtube.com/embed/JYX4TNbpg7U",
+        "link": "JYX4TNbpg7U",
         "tags": "M4A BFE Comfort Affirmations Improv",
         "length": 997,
         "uploaded": "2020-06-02",
@@ -1406,7 +1427,7 @@
     {
         "title": "Slow Dancing by Candlelight",
         "desc": ["My love, I’m sorry our plans got rained out. I still want this to be a memorable evening, though. With us dressed up, our space illuminated by candlelight and romantic music playing, this will be a night to remember.", "Come dance with me."],
-        "link": "https://www.youtube.com/embed/0Ik-CQDieho",
+        "link": "0Ik-CQDieho",
         "tags": "M4F BFE Improv",
         "length": 1096,
         "uploaded": "2020-05-29",
@@ -1416,7 +1437,7 @@
     {
         "title": "What Do You Mean, That Was a Date?!",
         "desc": ["... I’m sorry, am I boring you? You know what? This blind date was a bad idea. I’m outta here.", "What do you mean I can’t go?!", "Fine, let’s go. And this is <u>not</u> a date!", "(Script by Witchyway24)"],
-        "link": "https://www.youtube.com/embed/Snr5kJ4klr4",
+        "link": "Snr5kJ4klr4",
         "tags": "M4F Friends-to-Lovers Script-Fill",
         "length": 840,
         "uploaded": "2020-05-26",
@@ -1426,7 +1447,7 @@
     {
         "title": "Caught Stealing Your Cinnamon Roll",
         "desc": ["What? We had cinnamon rolls? I didn’t even know that. Well, I guess maybe I did. Yeah, you’re right, I’m the one who put them in the shopping cart. No, of course I didn’t eat yours!"],
-        "link": "https://www.youtube.com/embed/XmuQKVp6eX8",
+        "link": "XmuQKVp6eX8",
         "tags": "M4A BFE Improv",
         "length": 963,
         "uploaded": "2020-05-22",
@@ -1436,7 +1457,7 @@
     {
         "title": "Please Save Me from the Spider!",
         "desc": ["Can you please come in here? Please? It’s important! I can’t tell you why, just come in here!", "Umm…baby, there’s a spider and I need you to kill it. Stop laughing at me!"],
-        "link": "https://www.youtube.com/embed/nsMw0bprFc0",
+        "link": "nsMw0bprFc0",
         "tags": "M4A BFE Improv",
         "length": 869,
         "uploaded": "2020-05-15",
@@ -1446,7 +1467,7 @@
     {
         "title": "Comforting My Healthcare Hero",
         "desc": ["Why are you out of bed, babe? Talk to me, tell me what’s on your mind.", "I get it. Work is even more stressful now than usual. I’m so proud of you, my darling, and I’m not leaving your side."],
-        "link": "https://www.youtube.com/embed/r3_ucwaFiB4",
+        "link": "r3_ucwaFiB4",
         "tags": "M4A BFE Comfort Sleep-Aid Improv",
         "length": 889,
         "uploaded": "2020-05-12",
@@ -1456,7 +1477,7 @@
     {
         "title": "Caring for Your Healthcare Provider Boyfriend",
         "desc": ["Huh? What? …sorry, babe, I just had a stare attack. I didn’t mean to ignore you.", "I’m OK, I promise. Really.", "It’s just…work is hard right now and I'm struggling."],
-        "link": "https://www.youtube.com/embed/wagFRCy2h2s",
+        "link": "wagFRCy2h2s",
         "tags": "M4A BFE Reverse-Comfort BFE Improv Popular",
         "length": 881,
         "uploaded": "2020-05-12",
@@ -1466,7 +1487,7 @@
     {
         "title": "Your Vampire Boyfriend Snuggles You",
         "desc": ["Oops, I didn’t mean to wake you! You need to get some sleep. Let’s snuggle up and chat a bit as we get ready to sleep. And no, I’m not gonna turn you. Stop asking."],
-        "link": "https://www.youtube.com/embed/ONiHItSIDik",
+        "link": "ONiHItSIDik",
         "tags": "M4F BFE Fantasy Improv Popular",
         "length": 1480,
         "uploaded": "2020-05-08",
@@ -1476,7 +1497,7 @@
     {
         "title": "Beautiful, Not Broken",
         "desc": ["The cafe is packed, thanks for letting me share your table. I’ve enjoyed meeting you and I’d like to see you again.", "No, that doesn’t bother me at all. Should it? We all have our challenges and obstacles. Yours don’t make you any less beautiful."],
-        "link": "https://www.youtube.com/embed/Jy7UvDYv-bQ",
+        "link": "Jy7UvDYv-bQ",
         "tags": "M4F Friends-to-Lovers Improv",
         "length": 632,
         "uploaded": "2020-05-05",
@@ -1486,7 +1507,7 @@
     {
         "title": "Catching You Stealing My Favorite Hoodie",
         "desc": ["Ha! I set you up and caught you red-handed! No, don’t pretend you were here for anything else. You’ve been stealing my hoodies and now you’re gonna tell me why!"],
-        "link": "https://www.youtube.com/embed/5ExDXNKFd6g",
+        "link": "5ExDXNKFd6g",
         "tags": "M4F BFE Improv Popular",
         "length": 978,
         "uploaded": "2020-05-01",
@@ -1496,7 +1517,7 @@
     {
         "title": "You'll Take These Cuddles and Like It!",
         "desc": ["You don't need to get out of bed! Seriously! I've taken care of everything.", "Oh yeah, and I maaaaaay have pulled out the handcuffs.", "What? Don't look at me like that! You know I'm gonna collect when I win a bet, baby. You knew this was coming...you just didn't know when.", "(Script by u/MyAuralFixation)"],
-        "link": "https://www.youtube.com/embed/3i7orLDQZ1A",
+        "link": "3i7orLDQZ1A",
         "tags": "M4F BFE Script-Fill Popular",
         "length": 522,
         "uploaded": "2020-04-27",
@@ -1506,7 +1527,7 @@
     {
         "title": "Let Me Play With Your Hair",
         "desc": ["You work so hard, honey, and you do so well at everything. But things have been rough and you need to rest. Come put your head in my lap and I’ll gently play with your hair as I talk you to sleep.", "(Script by u/midnightlemons)"],
-        "link": "https://www.youtube.com/embed/KO-UCU6oA0c",
+        "link": "KO-UCU6oA0c",
         "tags": "M4F BFE Sleep-Aid Script-Fill",
         "length": 392,
         "uploaded": "2020-04-25",
@@ -1516,7 +1537,7 @@
     {
         "title": "Post-Surgical Blues",
         "desc": ["I can see you’re in a lot of pain after your surgery. Let me call your nurse in here to give you some pain meds, then I’ll comfort and sing to you to help you relax."],
-        "link": "https://www.youtube.com/embed/LpRfUApQJ00",
+        "link": "LpRfUApQJ00",
         "tags": "M4F BFE Comfort Improv",
         "length": 986,
         "uploaded": "2020-04-25",
@@ -1526,7 +1547,7 @@
     {
         "title": "Caring for Your Man",
         "desc": ["Sorry I worked through dinner, sweetheart, I don’t plan to make a habit of it but I’ve just got so much on my plate.", "Yeah, you’re not wrong: I’m very stressed. What I really need is for my sweetheart to look after me."],
-        "link": "https://www.youtube.com/embed/6yquoQ7Krnk",
+        "link": "6yquoQ7Krnk",
         "tags": "M4F BFE Reverse-Comfort Improv",
         "length": 1047,
         "uploaded": "2020-04-23",
@@ -1536,7 +1557,7 @@
     {
         "title": "I See You",
         "desc": ["You’ve been crying, is it because of that guy you told me about? The one who won’t give you the time of day? Don’t waste your tears on a jerk like him.", "I’m tired of watching other men break your heart. If you’ll let me, I’ll keep it safe.", "(Script by u/NecessarySundae)"],
-        "link": "https://www.youtube.com/embed/ziSN3zUad6A",
+        "link": "ziSN3zUad6A",
         "tags": "M4F Friends-to-Lovers Comfort Script-Fill",
         "length": 284,
         "uploaded": "2020-04-17",
